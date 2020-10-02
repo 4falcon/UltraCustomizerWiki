@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Greater Than</h2>
+<h2 style="text-align:center;"> Greater Than Or Equal To</h2>
 
 Will check if the first number is greater or Equal than the next number
 <br>
